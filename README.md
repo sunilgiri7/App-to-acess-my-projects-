@@ -1,4 +1,3 @@
-# App-to-acess-my-projects-
 <h1>Project Name: Github Project Page</h1>
 <h2>Description</h2>
 This is a simple web page that showcases my Github projects. It includes a header with a title and a link to my Github profile, a section for displaying my projects, and a section for users to leave comments about my projects.
@@ -17,7 +16,7 @@ python
 Clone the repository to your local machine
 Open the index.html file in a web browser
 View and interact with the web page
-<h2>Contributing<h2>
+<h2>Contributing</h2>
 If you would like to contribute to this project, please feel free to open a pull request.
 
 <h2>Future Enhancements</h2>
